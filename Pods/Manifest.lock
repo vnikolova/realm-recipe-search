@@ -1,0 +1,29 @@
+PODS:
+  - Realm (2.1.1):
+    - Realm/Headers (= 2.1.1)
+  - Realm/Headers (2.1.1)
+  - RealmSearchViewController (2.1):
+    - RealmSwift (>= 1.0.0)
+  - RealmSwift (2.1.1):
+    - Realm (= 2.1.1)
+  - RealmSwiftBlogData (1.0):
+    - RealmSwift (>= 0.96)
+  - TOWebViewController (2.2.6):
+    - TOWebViewController/Core (= 2.2.6)
+  - TOWebViewController/Core (2.2.6)
+
+DEPENDENCIES:
+  - RealmSearchViewController
+  - RealmSwiftBlogData
+  - TOWebViewController
+
+SPEC CHECKSUMS:
+  Realm: a55959c0b171a5fe5267406d17f314fec3cefaae
+  RealmSearchViewController: 95cad63545b0dd77e06b59d45ba1e7e8255acd54
+  RealmSwift: 749fd955bf8d6471c21d218b9389a47aaeccfe3f
+  RealmSwiftBlogData: b9bac3c4a6dbe871eb6412e11c38557369063848
+  TOWebViewController: a29908019f7e0e0f8eccfab8a1ee8dcdf4fc5aac
+
+PODFILE CHECKSUM: d8be6713b7556e3df691688611c0657f82151bd6
+
+COCOAPODS: 1.1.1
