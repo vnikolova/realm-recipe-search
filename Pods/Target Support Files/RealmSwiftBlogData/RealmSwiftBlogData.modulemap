@@ -1,6 +1,0 @@
-framework module RealmSwiftBlogData {
-  umbrella header "RealmSwiftBlogData-umbrella.h"
-
-  export *
-  module * { export * }
-}
